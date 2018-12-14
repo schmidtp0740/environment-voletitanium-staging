@@ -13,6 +13,9 @@ dependencies:
 - name: hcbc-backend
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.9
+- name: hcbc-hack
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.4
 - name: hcbc-portals
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.6
