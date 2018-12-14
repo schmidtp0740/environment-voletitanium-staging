@@ -10,6 +10,9 @@ dependencies:
 - name: golang-http
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
+- name: hcbc-backend
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.8
 - name: hcbc-portals
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.5
