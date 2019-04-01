@@ -18,4 +18,4 @@ dependencies:
   version: 0.0.5
 - name: hcbc-portals
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.6
+  version: 0.0.7
